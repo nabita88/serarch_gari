@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <title>FinGuard</title>
+    <link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23f2b84b'/%3E%3Ctext x='32' y='40' text-anchor='middle' font-size='36'%3E%3F%3C/text%3E%3C/svg%3E" rel="icon"/>
+    <link href="assets/styles/global.css" rel="stylesheet">
+    <link href="features/home/components/home-chat.css" rel="stylesheet">
+</head>
+<body>
+<div class="app" id="app">
+    <!-- Header -->
+    <header class="app-header" role="banner">
+        <div class="left cluster">
+            <span class="brand">
+                <span class="brand-icon">🛡️</span>
+                <span>FinGuard 핀가드</span>
+            </span>
+        </div>
+        <div class="right cluster">
+            <button class="ghost small" id="loginBtn">로그인</button>
+            <button aria-expanded="false" aria-label="메뉴 열기" class="icon-btn" id="hamburger">
+                <svg aria-hidden="true" height="22" viewbox="0 0 24 24" width="22"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path></svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Drawer (left, sliding) -->
+    <aside aria-hidden="true" aria-modal="true" class="drawer" id="drawer">
+        <div aria-label="내비게이션" class="drawer-inner" role="dialog">
+            <div class="drawer-head">
+                <strong>메뉴</strong>
+                <button aria-label="메뉴 닫기" class="icon-btn" id="closeDrawer">
+                    <svg height="22" viewbox="0 0 24 24" width="22"><path d="M6 6l12 12M6 18L18 6" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path></svg>
+                </button>
+            </div>
+            <nav class="drawer-nav">
+                <a data-view="home" href="#home">홈</a>
+                <a data-view="disclosure" href="#disclosure">공시</a>
+                <a data-view="gabgard" href="#gabgard">갑자드</a>
+                <a data-view="gabgi" href="#gabgi">갭분석</a>
+                <a href="/gap-monitor.html" target="_blank">Gap Monitor</a>
+                <a class="active" data-view="rumor" href="#rumor">루머체크</a>
+                <a data-view="profile" href="#profile">프로필</a>
+            </nav>
+        </div>
+        <div class="overlay" id="drawerOverlay" tabindex="-1"></div>
+    </aside>
+
+    <!-- Views -->
+    <main class="view-stack">
+        <section aria-label="홈" class="view" data-view="home" id="view-home"></section>
+        <section aria-label="공시" class="view" data-view="disclosure" id="view-disclosure"></section>
+        <section aria-label="갑자드" class="view" data-view="gabgard" id="view-gabgard"></section>
+        <section aria-label="갭 분석" class="view" data-view="gabgi" id="view-gabgi"></section>
+        <section aria-label="루머 체크" class="view active" data-view="rumor" id="view-rumor" role="region"></section>
+        <section aria-label="루머 상세" class="view" data-view="detail" id="view-detail" role="region"></section>
+        <section aria-label="프로필" class="view" data-view="profile" id="view-profile"></section>
+    </main>
+
+    <!-- Tabbar -->
+    <footer aria-label="하단 탭바" class="tabbar" role="navigation">
+        <a class="tab" data-view="home" href="#home">
+            <div class="ico">🏠</div>
+            <span>홈</span>
+        </a>
+        <a class="tab" data-view="disclosure" href="#disclosure">
+            <div class="ico">📰</div>
+            <span>공시</span>
+        </a>
+        <a class="tab" data-view="gabgard" href="#gabgard">
+            <div class="ico">📅</div>
+            <span>갑자드</span>
+        </a>
+        <a class="tab" data-view="gabgi" href="#gabgi">
+            <div class="ico">📊</div>
+            <span>갭분석</span>
+        </a>
+        <a class="tab active" data-view="rumor" href="#rumor">
+            <div class="ico">🕵️</div>
+            <span>루머체크</span>
+        </a>
+        <a class="tab" data-view="profile" href="#profile">
+            <div class="ico">👤</div>
+            <span>프로필</span>
+        </a>
+    </footer>
+</div>
+
+<!-- Modals Container -->
+<div id="modals-container"></div>
+
+<!-- Scripts -->
+<!-- 1. marked.js (마크다운 렌더링) -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<!-- 2. 공유 서비스 (전역 객체) -->
+<script src="shared/services/api-client.js"></script>
+<script src="shared/services/auth-manager.js"></script>
+<script src="shared/services/modal-controller.js"></script>
+
+<!-- 2. 메인 스크립트 (라우터, 드로어) -->
+<script src="assets/scripts/main.js"></script>
+
+<!-- 3. Feature 스크립트 -->
+<script src="features/home/home.js"></script>
+<script src="features/disclosure/disclosure.js"></script>
+<script src="features/gabgard/gabgard.js"></script>
+<script src="features/gabgi/gabgi.js"></script>
+<script src="features/rumor/rumor-app.js"></script>
+<script src="features/profile/profile.js"></script>
+</body>
+</html>

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>Gap Monitor – 최근 100일 괴리 신호 대시보드</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Chart.js -->
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <style>
+    :root{
+      --bg: #0b0d11;
+      --panel: #141821;
+      --muted: #8d98a8;
+      --text: #ecf0f3;
+      --brand: #6aa8ff;
+      --over: #19c37d;
+      --under: #ff5a60;
+      --chip: #1f2430;
+      --chip-border: #2a3142;
+      --shadow: 0 10px 30px rgb(0 0 0 / 25%);
+      --border: #222a39;
+      --focus: #6aa8ff66;
+    }
+    [data-theme="light"]{
+      --bg:#f8fafc;
+      --panel:#ffffff;
+      --muted:#667085;
+      --text:#0b1220;
+      --brand:#3b82f6;
+      --over:#16a34a;
+      --under:#ef4444;
+      --chip:#f1f5f9;
+      --chip-border:#e5e7eb;
+      --shadow:0 8px 20px rgb(0 0 0 / 8%);
+      --border:#e6e8ec;
+      --focus:#3b82f64d;
+    }
+
+    *{ box-sizing: border-box }
+    html,body{ height:100% }
+    body{
+      margin:0; background:var(--bg); color:var(--text);
+      font: 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Noto Sans KR, sans-serif;
+    }
+
+    .app{
+      max-width:1200px; margin:24px auto; padding:0 16px;
+      display:flex; flex-direction:column; gap:16px;
+    }
+    header{
+      display:flex; align-items:center; justify-content:space-between;
+      gap:12px;
+    }
+    .brand{ display:flex; align-items:center; gap:10px; }
+    .brand .logo{
+      width:34px; height:34px; border-radius:10px; background:
+        radial-gradient(120% 120% at 0% 0%, var(--brand), transparent 60%),
+        radial-gradient(120% 120% at 100% 100%, #8b5cf6, transparent 60%);
+      box-shadow: var(--shadow);
+    }
+    .brand h1{
+      font-size:18px; margin:0; letter-spacing:0.2px;
+    }
+    .muted{ color:var(--muted) }
+
+    .controls{
+      display:flex; gap:10px; flex-wrap:wrap;
+      background:var(--panel); border:1px solid var(--border);
+      padding:12px; border-radius:14px; box-shadow:var(--shadow);
+    }
+    .control{
+      display:flex; align-items:center; gap:8px; background:var(--chip);
+      border:1px solid var(--chip-border); padding:8px 10px; border-radius:12px;
+    }
+    .control input[type="search"]{
+      background:transparent; border:none; outline:none; color:var(--text);
+      min-width:220px;
+    }
+    .chip{
+      display:inline-flex; gap:6px; align-items:center;
+      padding:4px 10px; border-radius:999px; border:1px solid var(--chip-border);
+      background:var(--chip); font-weight:600;
+    }
+    .chip.over{ color:var(--over) }
+    .chip.under{ color:var(--under) }
+    .chip.extreme{ border-color:currentColor; color:#f59e0b }
+    .btn{
+      appearance:none; border:none; background:var(--brand); color:white; font-weight:700;
+      padding:10px 14px; border-radius:10px; cursor:pointer; box-shadow:var(--shadow);
+    }
+    .btn.secondary{
+      background:transparent; color:var(--text); border:1px solid var(--chip-border);
+    }
+
+    .grid{
+      display:grid; grid-template-columns: 1.1fr 1fr; gap:16px;
+    }
+    @media (max-width: 980px){ .grid{ grid-template-columns: 1fr } }
+
+    .panel{
+      background:var(--panel); border:1px solid var(--border);
+      border-radius:14px; box-shadow:var(--shadow); overflow:hidden;
+    }
+    .panel .hd{
+      display:flex; align-items:center; justify-content:space-between;
+      padding:12px 14px; border-bottom:1px solid var(--border);
+    }
+    .cards{
+      display:grid; grid-template-columns: repeat(4, 1fr);
+      gap:12px; padding:12px;
+    }
+    @media (max-width: 980px){ .cards{ grid-template-columns: repeat(2, 1fr) } }
+    .card{
+      background:linear-gradient(0deg, transparent, transparent),
+                 radial-gradient(70% 70% at 0% 0%, rgb(255 255 255/3%), transparent 50%);
+      border:1px solid var(--border); border-radius:12px; padding:12px;
+    }
+    .card .k{ color:var(--muted); font-weight:600; font-size:12px }
+    .card .v{ font-size:22px; font-weight:800; margin-top:4px }
+    .split{ display:grid; grid-template-columns: 1fr 1fr; gap:12px; padding:12px; }
+    canvas{ width:100%; height:280px }
+    .table{
+      width:100%; border-collapse:collapse;
+    }
+    .table th, .table td{
+      padding:10px 12px; border-bottom:1px solid var(--border);
+      text-align:left; white-space:nowrap;
+    }
+    .table th{ font-size:12px; color:var(--muted); cursor:pointer; user-select:none }
+    .table tbody tr:hover{ background: rgba(255,255,255,.03) }
+    .row-btn{
+      font-size:12px; padding:6px 10px; border:1px solid var(--chip-border);
+      border-radius:8px; background:transparent; color:var(--text); cursor:pointer;
+    }
+
+    .drawer{
+      position:fixed; inset:0; display:none; background: rgb(0 0 0 / 45%);
+      align-items:stretch; justify-content:flex-end; z-index:30;
+    }
+    .drawer.open{ display:flex }
+    .drawer .sheet{
+      width:min(520px, 100%); background:var(--panel); border-left:1px solid var(--border);
+      box-shadow: var(--shadow); display:flex; flex-direction:column;
+    }
+    .sheet .top{ padding:14px; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center }
+    .sheet .body{ padding:14px; display:flex; flex-direction:column; gap:10px; overflow:auto }
+    .news{
+      display:flex; flex-direction:column; gap:10px;
+    }
+    .news-item{
+      border:1px solid var(--chip-border); background:var(--chip); border-radius:12px; padding:10px;
+      display:grid; grid-template-columns: 1fr auto; gap:8px; align-items:center;
+    }
+    .news-item a{ color:var(--brand); text-decoration:none; font-weight:700 }
+    .badge{ font-size:12px; padding:2px 8px; border-radius:999px; border:1px solid var(--chip-border); }
+    .badge.over{ color:var(--over) } .badge.under{ color:var(--under) }
+    .progress{
+      display:flex; gap:8px; align-items:center; font-variant-numeric: tabular-nums
+    }
+    .bar{
+      flex:1; height:8px; background:var(--chip); border-radius:999px; overflow:hidden; border:1px solid var(--chip-border)
+    }
+    .bar > i{ display:block; height:100% }
+    .bar .pos{ background:var(--over) } .bar .neg{ background:var(--under) }
+
+    .sr-only{ position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; border:0; padding:0; margin:-1px }
+    .toggle{ display:flex; align-items:center; gap:6px }
+    .toggle input{ width:42px; height:24px; appearance:none; background:var(--chip); border:1px solid var(--chip-border); border-radius:999px; position:relative; cursor:pointer; outline:none }
+    .toggle input:checked{ background:var(--brand) }
+    .toggle input::after{
+      content:""; position:absolute; width:18px; height:18px; border-radius:50%;
+      left:3px; top:2.5px; background:#fff; transition:transform .2s ease
+    }
+    .toggle input:checked::after{ transform: translateX(18px) }
+  </style>
+</head>
+<body data-theme="dark">
+  <div class="app">
+    <header>
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <h1>Gap Monitor <span class="muted">· 최근 100일</span></h1>
+          <div class="muted" id="lastUpdated" aria-live="polite"></div>
+        </div>
+      </div>
+      <label class="toggle" title="다크 모드 전환">
+        <input id="themeToggle" type="checkbox" checked />
+        <span>Dark</span>
+      </label>
+    </header>
+
+    <div class="controls" role="region" aria-label="필터">
+      <div class="control">
+        🔎
+        <input id="q" type="search" placeholder="종목명 또는 코드 검색 (예: 네이버, 035420)" />
+      </div>
+      <div class="control">
+        <span class="chip over">OVER</span>
+        <label><input id="fOver" type="checkbox" checked /> 표시</label>
+      </div>
+      <div class="control">
+        <span class="chip under">UNDER</span>
+        <label><input id="fUnder" type="checkbox" checked /> 표시</label>
+      </div>
+      <div class="control">
+        강도:
+        <label><input class="mag" type="checkbox" value="MODERATE" checked /> Moderate</label>
+        <label><input class="mag" type="checkbox" value="HIGH" checked /> High</label>
+        <label><input class="mag" type="checkbox" value="EXTREME" checked /> Extreme</label>
+      </div>
+      <div class="control">
+        최소 |Z|-Score:
+        <input id="zMin" type="range" min="0" max="7" step="0.1" value="0" />
+        <strong id="zMinVal">0.0</strong>
+      </div>
+      <button id="btnCsv" class="btn secondary">CSV로 내보내기</button>
+    </div>
+
+    <section class="grid">
+      <div class="panel">
+        <div class="hd"><strong>요약 지표</strong></div>
+        <div class="cards">
+          <div class="card">
+            <div class="k">총 신호</div>
+            <div class="v" id="kTotal">-</div>
+          </div>
+          <div class="card">
+            <div class="k">방향 (OVER / UNDER)</div>
+            <div class="v"><span id="kOver">-</span> / <span id="kUnder">-</span></div>
+          </div>
+          <div class="card">
+            <div class="k">강도 (EXTREME)</div>
+            <div class="v" id="kExtreme">-</div>
+          </div>
+          <div class="card">
+            <div class="k">상위 이벤트 코드</div>
+            <div class="v" id="kTopEvent">-</div>
+          </div>
+        </div>
+        <div class="split">
+          <canvas id="chartDirection" aria-label="방향 분포 차트"></canvas>
+          <canvas id="chartMagnitude" aria-label="강도 분포 차트"></canvas>
+        </div>
+        <div class="split">
+          <canvas id="chartEvents" aria-label="이벤트 상위 분포"></canvas>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="hd"><strong>최신 괴리 신호</strong> <span class="muted">정렬: Z-Score(절대값) ↓</span></div>
+        <div style="overflow:auto">
+          <table class="table" id="tbl">
+            <thead>
+              <tr>
+                <th data-k="date">날짜</th>
+                <th data-k="stock">종목(코드)</th>
+                <th data-k="event">이벤트</th>
+                <th data-k="direction">방향</th>
+                <th data-k="magnitude">강도</th>
+                <th data-k="z">Z-Score</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <div class="sheet">
+      <div class="top">
+        <div>
+          <strong id="drawerTitle">종목 상세</strong>
+          <div class="muted" id="drawerSub">최근 100일</div>
+        </div>
+        <button class="row-btn" id="drawerClose">닫기</button>
+      </div>
+      <div class="body" id="drawerBody"></div>
+    </div>
+  </div>
+
+  <script src="/gap-monitor.js"></script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.5.5'
+    id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+description = 'stockkkkk'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Spring Boot 기본 스타터
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'org.springframework.boot:spring-boot-starter-mail'
+
+    implementation 'org.springframework.boot:spring-boot-starter-aop'
+
+    // 개발 편의성
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+    // API 문서화 - Swagger/OpenAPI 3.0 (최신 버전)
+    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0'
+
+    // JWT
+    implementation 'io.jsonwebtoken:jjwt-api:0.12.6'
+    runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.12.6'
+    runtimeOnly 'io.jsonwebtoken:jjwt-jackson:0.12.6'
+
+
+
+    // Database
+    runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
+//    runtimeOnly 'com.h2database:h2' // 개발용 인메모리 데이터베이스
+
+
+    // Lombok
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    testCompileOnly 'org.projectlombok:lombok'
+    testAnnotationProcessor 'org.projectlombok:lombok'
+
+
+
+    // HTTP 클라이언트
+    implementation 'org.springframework.boot:spring-boot-starter-webflux'
+
+
+
+    // 파일 업로드/다운로드
+    implementation 'commons-fileupload:commons-fileupload:1.5'
+
+
+    // 이미지 처리
+    implementation 'org.imgscalr:imgscalr-lib:4.2'
+
+    // 테스트 의존성
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.springframework.security:spring-security-test'
+    testImplementation 'org.testcontainers:junit-jupiter'
+    testImplementation 'org.testcontainers:mariadb'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+
+
+    // MockWebServer (외부 API 테스트용)
+    testImplementation 'com.squareup.okhttp3:mockwebserver:4.12.0'
+}
+
+// QueryDSL 설정
+def querydslDir = "src/main/generated"
+
+sourceSets {
+    main.java.srcDirs += [ querydslDir ]
+}
+
+tasks.withType(JavaCompile) {
+    options.getGeneratedSourceOutputDirectory().set(file(querydslDir))
+}
+
+clean.doLast {
+    file(querydslDir).deleteDir()
+}
+
+// 테스트 설정
+tasks.named('test') {
+    useJUnitPlatform()
+
+    // 테스트 결과를 항상 출력
+    testLogging {
+        events "passed", "skipped", "failed"
+        exceptionFormat "full"
+    }
+
+    // 병렬 테스트 실행
+    maxParallelForks = Runtime.runtime.availableProcessors()
+
+    // 테스트 실행 시 시스템 프로퍼티 전달
+    systemProperty 'spring.profiles.active', 'test'
+}
+
+// REST Docs 설정
+ext {
+    snippetsDir = file('build/generated-snippets')
+}
+
+test {
+    outputs.dir snippetsDir
+}
+
+
+
+// JAR 빌드 최적화
+jar {
+    enabled = false
+    archiveClassifier = ''
+}
+
+bootJar {
+    enabled = true
+    archiveClassifier = ''
+
+    // 실행 가능한 JAR 최적화
+    layered {
+        enabled = true
+    }
+}
+
+// 개발 프로필 설정
+bootRun {
+    jvmArgs = [
+            '-Dspring.profiles.active=dev',
+            '-Dspring.devtools.restart.enabled=true',
+            '-Dspring.devtools.livereload.enabled=true'
+    ]
+}
+
+// Gradle Wrapper 설정
+wrapper {
+    gradleVersion = '8.5'
+    distributionType = Wrapper.DistributionType.ALL
+}
