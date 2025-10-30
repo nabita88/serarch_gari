@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+elasticsearch>=8,<9
+openai>=1.0.0
+python-dateutil
+pymysql>=1.1.0
+pandas
+pyyaml

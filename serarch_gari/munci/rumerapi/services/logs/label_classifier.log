@@ -1,0 +1,1509 @@
+2025-10-26 13:16:44,227 - __main__ - INFO - AI 분류기 초기화 완료
+2025-10-26 13:16:44,911 - __main__ - INFO - 총 1287건의 이벤트 발견
+2025-10-26 13:16:46,549 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:16:52,809 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:16:56,094 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:17:55,234 - __main__ - INFO - AI 분류기 초기화 완료
+2025-10-26 13:17:55,694 - __main__ - INFO - 총 1287건의 이벤트 발견
+2025-10-26 13:17:57,325 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:00,653 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:03,915 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:07,401 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:10,739 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:13,879 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:17,351 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:20,360 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:23,596 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:26,718 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:29,830 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:32,892 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:18:36,157 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:06,628 - __main__ - INFO - AI 분류기 초기화 완료
+2025-10-26 13:48:07,378 - __main__ - INFO - 총 1287건의 이벤트 발견
+2025-10-26 13:48:08,862 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:12,972 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:16,857 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:20,752 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:25,169 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:30,383 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:34,309 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:38,166 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:41,722 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:48,372 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:51,226 - __main__ - INFO - ✅ DB 커밋: 10건 저장됨
+2025-10-26 13:48:52,697 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:48:57,648 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:01,668 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:06,012 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:11,349 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:15,707 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:21,869 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:26,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:29,832 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:31,411 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:35,352 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:37,703 - __main__ - INFO - ✅ DB 커밋: 20건 저장됨
+2025-10-26 13:49:39,065 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:39,106 - __main__ - INFO - ✅ DB 커밋: 20건 저장됨
+2025-10-26 13:49:40,521 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:40,560 - __main__ - INFO - ✅ DB 커밋: 20건 저장됨
+2025-10-26 13:49:42,172 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:47,392 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:51,834 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:55,932 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:49:59,802 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:04,114 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:07,825 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:12,112 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:15,991 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:19,944 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:21,782 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:24,346 - __main__ - INFO - ✅ DB 커밋: 30건 저장됨
+2025-10-26 13:50:25,832 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:25,868 - __main__ - INFO - ✅ DB 커밋: 30건 저장됨
+2025-10-26 13:50:27,360 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:27,409 - __main__ - INFO - ✅ DB 커밋: 30건 저장됨
+2025-10-26 13:50:28,977 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:29,061 - __main__ - INFO - ✅ DB 커밋: 30건 저장됨
+2025-10-26 13:50:30,472 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:34,404 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:38,103 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:39,871 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:43,755 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:47,621 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:51,624 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:53,300 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:54,899 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:56,145 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:50:57,274 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:01,333 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:05,290 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:09,250 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:10,632 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:14,786 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:16,443 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:18,844 - __main__ - INFO - ✅ DB 커밋: 40건 저장됨
+2025-10-26 13:51:20,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:25,476 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:29,413 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:34,582 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:38,755 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:42,887 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:46,817 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:51,035 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:55,695 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:51:59,326 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:02,152 - __main__ - INFO - ✅ DB 커밋: 50건 저장됨
+2025-10-26 13:52:03,163 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:07,072 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:10,652 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:13,547 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:16,589 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:20,052 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:23,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:26,223 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:27,655 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:31,572 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:33,108 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:36,661 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:38,717 - __main__ - INFO - ✅ DB 커밋: 60건 저장됨
+2025-10-26 13:52:39,898 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:43,053 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:46,124 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:49,275 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:53,006 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:56,689 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:52:58,229 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:02,042 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:04,597 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:08,208 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:11,540 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:14,571 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:16,563 - __main__ - INFO - ✅ DB 커밋: 70건 저장됨
+2025-10-26 13:53:17,913 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:21,454 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:24,413 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:27,844 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:31,602 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:34,652 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:37,995 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:39,309 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:42,811 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:46,011 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:49,169 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:51,188 - __main__ - INFO - ✅ DB 커밋: 80건 저장됨
+2025-10-26 13:53:51,189 - __main__ - INFO - 진행: 100/1287 (7.8%), 저장: 80건, AI분류: 88건
+2025-10-26 13:53:52,838 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:53:56,759 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:00,423 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:04,422 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:10,187 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:14,568 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:18,351 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:22,217 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:26,227 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:27,930 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:31,736 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:34,651 - __main__ - INFO - ✅ DB 커밋: 90건 저장됨
+2025-10-26 13:54:36,274 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:36,297 - __main__ - INFO - ✅ DB 커밋: 90건 저장됨
+2025-10-26 13:54:37,767 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:37,790 - __main__ - INFO - ✅ DB 커밋: 90건 저장됨
+2025-10-26 13:54:39,231 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:42,397 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:43,658 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:46,825 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:51,472 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:55,344 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:54:59,141 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:03,976 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:09,304 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:13,380 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:18,343 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:20,314 - __main__ - INFO - ✅ DB 커밋: 100건 저장됨
+2025-10-26 13:55:21,575 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:25,097 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:28,398 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:31,948 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:33,749 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:37,711 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:41,418 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:45,817 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:49,373 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:53,283 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:55:58,065 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:01,625 - __main__ - INFO - ✅ DB 커밋: 110건 저장됨
+2025-10-26 13:56:03,118 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:03,622 - __main__ - INFO - ✅ DB 커밋: 110건 저장됨
+2025-10-26 13:56:06,301 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:06,335 - __main__ - INFO - ✅ DB 커밋: 110건 저장됨
+2025-10-26 13:56:07,827 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:12,535 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:16,373 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:20,162 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:23,791 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:25,507 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:29,979 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:31,774 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:38,515 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:42,111 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:43,416 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:47,099 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:50,598 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:53,707 - __main__ - INFO - ✅ DB 커밋: 120건 저장됨
+2025-10-26 13:56:54,958 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:56:59,147 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:00,564 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:04,584 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:05,947 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:10,453 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:14,854 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:19,165 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:22,712 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:26,229 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:29,818 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:33,454 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:35,784 - __main__ - INFO - ✅ DB 커밋: 130건 저장됨
+2025-10-26 13:57:37,193 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:41,024 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:42,400 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:46,003 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:49,376 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:53,588 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:54,997 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:57:56,420 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:00,218 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:04,482 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:12,067 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:16,383 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:20,378 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:21,470 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:22,925 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:25,503 - __main__ - INFO - ✅ DB 커밋: 140건 저장됨
+2025-10-26 13:58:27,099 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:27,141 - __main__ - INFO - ✅ DB 커밋: 140건 저장됨
+2025-10-26 13:58:28,285 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:32,329 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:36,033 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:37,666 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:41,816 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:45,950 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:50,202 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:54,078 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:58:57,780 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:02,033 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:05,486 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:07,864 - __main__ - INFO - ✅ DB 커밋: 150건 저장됨
+2025-10-26 13:59:09,427 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:09,499 - __main__ - INFO - ✅ DB 커밋: 150건 저장됨
+2025-10-26 13:59:10,585 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:10,760 - __main__ - INFO - ✅ DB 커밋: 150건 저장됨
+2025-10-26 13:59:11,968 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:15,611 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:19,272 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:20,570 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:24,684 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:28,602 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:30,060 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:33,741 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:40,776 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:47,751 - __main__ - INFO - 진행: 200/1287 (15.5%), 저장: 157건, AI분류: 171건
+2025-10-26 13:59:48,941 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:52,425 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:56,467 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 13:59:58,863 - __main__ - INFO - ✅ DB 커밋: 160건 저장됨
+2025-10-26 14:00:00,164 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:06,537 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:10,484 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:15,792 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:20,245 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:21,569 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:25,377 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:29,143 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:32,963 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:38,058 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:41,544 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:43,962 - __main__ - INFO - ✅ DB 커밋: 170건 저장됨
+2025-10-26 14:00:45,240 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:48,638 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:52,302 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:55,680 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:00:57,040 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:00,970 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:04,690 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:08,245 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:11,704 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:15,328 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:17,745 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:21,133 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:22,623 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:25,224 - __main__ - INFO - ✅ DB 커밋: 180건 저장됨
+2025-10-26 14:01:26,934 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:30,543 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:34,075 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:35,550 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:36,932 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:40,671 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:44,717 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:48,737 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:53,265 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:01:57,450 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:02,140 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:06,129 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:10,137 - __main__ - INFO - ✅ DB 커밋: 190건 저장됨
+2025-10-26 14:02:11,855 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:11,881 - __main__ - INFO - ✅ DB 커밋: 190건 저장됨
+2025-10-26 14:02:13,182 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:16,959 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:18,314 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:22,049 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:25,693 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:29,498 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:33,247 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:34,467 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:38,239 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:39,456 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:41,006 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:44,677 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:48,421 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:52,022 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:54,541 - __main__ - INFO - ✅ DB 커밋: 200건 저장됨
+2025-10-26 14:02:55,738 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:02:59,719 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:03,905 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:07,831 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:11,390 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:14,979 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:19,036 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:22,913 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:26,693 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:28,224 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:31,671 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:34,006 - __main__ - INFO - ✅ DB 커밋: 210건 저장됨
+2025-10-26 14:03:35,289 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:39,147 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:40,745 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:44,105 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:45,959 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:49,649 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:50,822 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:52,238 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:55,699 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:57,031 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:03:58,160 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:02,522 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:06,098 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:09,920 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:13,722 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:15,178 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:16,652 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:19,899 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:21,303 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:22,712 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:25,007 - __main__ - INFO - ✅ DB 커밋: 220건 저장됨
+2025-10-26 14:04:26,516 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:30,044 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:31,281 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:34,804 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:38,681 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:42,194 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:45,826 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:49,749 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:53,732 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:04:57,756 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:02,040 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:03,958 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:06,051 - __main__ - INFO - ✅ DB 커밋: 230건 저장됨
+2025-10-26 14:05:07,367 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:10,666 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:13,984 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:16,167 - __main__ - INFO - 진행: 300/1287 (23.3%), 저장: 233건, AI분류: 251건
+2025-10-26 14:05:18,143 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:21,861 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:25,213 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:26,538 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:32,060 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:36,160 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:40,382 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:44,261 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:46,037 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:48,988 - __main__ - INFO - ✅ DB 커밋: 240건 저장됨
+2025-10-26 14:05:50,008 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:53,432 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:56,987 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:58,522 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:05:59,922 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:03,229 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:06,685 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:07,980 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:11,445 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:15,041 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:16,811 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:20,128 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:23,803 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:27,247 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:29,184 - __main__ - INFO - ✅ DB 커밋: 250건 저장됨
+2025-10-26 14:06:30,521 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:33,734 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:37,024 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:40,279 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:41,587 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:45,526 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:46,868 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:50,371 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:54,054 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:06:57,675 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:01,007 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:04,257 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:06,161 - __main__ - INFO - ✅ DB 커밋: 260건 저장됨
+2025-10-26 14:07:07,368 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:07,392 - __main__ - INFO - ✅ DB 커밋: 260건 저장됨
+2025-10-26 14:07:08,540 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:08,564 - __main__ - INFO - ✅ DB 커밋: 260건 저장됨
+2025-10-26 14:07:09,676 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:09,696 - __main__ - INFO - ✅ DB 커밋: 260건 저장됨
+2025-10-26 14:07:11,057 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:14,245 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:17,462 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:20,889 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:21,987 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:25,113 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:28,294 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:31,728 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:35,024 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:36,037 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:39,336 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:40,595 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:44,090 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:46,250 - __main__ - INFO - ✅ DB 커밋: 270건 저장됨
+2025-10-26 14:07:47,433 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:50,519 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:53,827 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:55,124 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:07:58,152 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:01,839 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:05,251 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:09,444 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:14,271 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:18,119 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:23,869 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:26,209 - __main__ - INFO - ✅ DB 커밋: 280건 저장됨
+2025-10-26 14:08:27,689 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:27,760 - __main__ - INFO - ✅ DB 커밋: 280건 저장됨
+2025-10-26 14:08:29,039 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:29,079 - __main__ - INFO - ✅ DB 커밋: 280건 저장됨
+2025-10-26 14:08:30,601 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:33,884 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:34,978 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:38,165 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:39,297 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:43,302 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:47,126 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:50,399 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:53,533 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:08:56,485 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:00,704 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:03,933 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:06,075 - __main__ - INFO - ✅ DB 커밋: 290건 저장됨
+2025-10-26 14:09:07,304 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:10,532 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:13,940 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:17,229 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:20,492 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:21,673 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:25,164 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:29,137 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:30,610 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:34,122 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:37,853 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:41,424 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:43,604 - __main__ - INFO - ✅ DB 커밋: 300건 저장됨
+2025-10-26 14:09:45,056 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:45,081 - __main__ - INFO - ✅ DB 커밋: 300건 저장됨
+2025-10-26 14:09:46,282 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:50,059 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:53,122 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:56,567 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:09:59,868 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:03,475 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:06,618 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:09,769 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:13,482 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:18,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:20,722 - __main__ - INFO - ✅ DB 커밋: 310건 저장됨
+2025-10-26 14:10:21,867 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:24,044 - __main__ - INFO - 진행: 400/1287 (31.1%), 저장: 311건, AI분류: 331건
+2025-10-26 14:10:25,325 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:28,802 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:30,500 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:34,476 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:38,345 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:41,897 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:45,369 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:49,071 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:52,523 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:56,099 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:10:58,296 - __main__ - INFO - ✅ DB 커밋: 320건 저장됨
+2025-10-26 14:10:59,626 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:03,255 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:07,555 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:12,359 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:16,354 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:17,789 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:22,276 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:26,362 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:30,480 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:34,951 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:38,913 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:41,495 - __main__ - INFO - ✅ DB 커밋: 330건 저장됨
+2025-10-26 14:11:43,077 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:43,128 - __main__ - INFO - ✅ DB 커밋: 330건 저장됨
+2025-10-26 14:11:45,146 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:50,420 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:54,577 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:11:59,066 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:03,490 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:05,143 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:09,635 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:13,783 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:18,188 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:21,568 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:22,814 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:26,990 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:29,324 - __main__ - INFO - ✅ DB 커밋: 340건 저장됨
+2025-10-26 14:12:30,990 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:34,666 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:37,788 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:41,102 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:44,214 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:47,476 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:50,493 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:53,683 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:56,994 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:12:58,003 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:01,958 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:03,843 - __main__ - INFO - ✅ DB 커밋: 350건 저장됨
+2025-10-26 14:13:05,078 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:08,162 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:11,195 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:14,326 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:15,838 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:19,041 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:22,235 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:23,522 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:24,556 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:28,045 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:31,345 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:34,560 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:37,830 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:39,795 - __main__ - INFO - ✅ DB 커밋: 360건 저장됨
+2025-10-26 14:13:41,081 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:44,285 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:47,463 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:50,787 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:52,027 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:53,444 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:13:56,719 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:00,029 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:03,213 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:06,819 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:08,541 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:12,327 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:17,357 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:19,864 - __main__ - INFO - ✅ DB 커밋: 370건 저장됨
+2025-10-26 14:14:21,094 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:21,146 - __main__ - INFO - ✅ DB 커밋: 370건 저장됨
+2025-10-26 14:14:22,395 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:26,362 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:30,032 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:33,663 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:34,934 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:36,252 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:37,503 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:38,769 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:42,440 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:43,654 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:47,808 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:51,637 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:55,367 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:14:58,996 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:04,524 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:06,841 - __main__ - INFO - ✅ DB 커밋: 380건 저장됨
+2025-10-26 14:15:08,216 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:12,099 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:16,139 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:19,575 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:23,186 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:26,321 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:29,534 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:32,837 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:36,256 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:40,119 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:42,302 - __main__ - INFO - ✅ DB 커밋: 390건 저장됨
+2025-10-26 14:15:43,591 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:47,116 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:50,748 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:53,099 - __main__ - INFO - 진행: 500/1287 (38.9%), 저장: 393건, AI분류: 416건
+2025-10-26 14:15:54,569 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:58,310 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:15:59,795 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:03,445 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:07,033 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:08,617 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:10,570 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:14,335 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:18,261 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:22,005 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:24,361 - __main__ - INFO - ✅ DB 커밋: 400건 저장됨
+2025-10-26 14:16:25,790 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:29,551 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:33,267 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:37,044 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:40,828 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:44,827 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:48,774 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:52,514 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:16:56,325 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:00,012 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:02,569 - __main__ - INFO - ✅ DB 커밋: 410건 저장됨
+2025-10-26 14:17:03,935 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:07,797 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:11,465 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:15,192 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:18,963 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:20,334 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:24,064 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:27,650 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:31,741 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:35,621 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:39,537 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:41,904 - __main__ - INFO - ✅ DB 커밋: 420건 저장됨
+2025-10-26 14:17:43,278 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:47,121 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:50,646 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:52,037 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:55,580 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:17:59,356 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:00,820 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:04,906 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:08,833 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:12,478 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:16,225 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:19,949 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:22,241 - __main__ - INFO - ✅ DB 커밋: 430건 저장됨
+2025-10-26 14:18:23,688 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:27,268 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:31,057 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:32,261 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:35,636 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:39,466 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:40,854 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:44,884 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:49,096 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:52,630 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:18:56,214 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:00,411 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:02,682 - __main__ - INFO - ✅ DB 커밋: 440건 저장됨
+2025-10-26 14:19:03,787 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:07,497 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:11,079 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:14,779 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:18,815 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:22,557 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:26,437 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:27,881 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:31,509 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:35,695 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:39,347 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:41,682 - __main__ - INFO - ✅ DB 커밋: 450건 저장됨
+2025-10-26 14:19:43,386 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:47,469 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:48,709 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:52,628 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:19:56,408 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:00,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:04,017 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:07,654 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:11,358 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:15,038 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:18,723 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:21,025 - __main__ - INFO - ✅ DB 커밋: 460건 저장됨
+2025-10-26 14:20:22,455 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:26,344 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:27,857 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:31,887 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:36,187 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:37,651 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:41,580 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:45,240 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:49,104 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:54,300 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:20:58,129 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:02,404 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:05,005 - __main__ - INFO - ✅ DB 커밋: 470건 저장됨
+2025-10-26 14:21:06,716 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:10,460 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:14,351 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:17,736 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:21,832 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:25,557 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:29,325 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:30,407 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:33,947 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:37,790 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:41,381 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:43,902 - __main__ - INFO - ✅ DB 커밋: 480건 저장됨
+2025-10-26 14:21:43,903 - __main__ - INFO - 진행: 600/1287 (46.6%), 저장: 480건, AI분류: 504건
+2025-10-26 14:21:45,804 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:49,541 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:53,107 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:54,214 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:21:58,183 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:02,444 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:06,129 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:07,565 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:09,064 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:10,465 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:14,249 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:17,881 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:21,659 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:22,901 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:24,164 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:27,835 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:30,137 - __main__ - INFO - ✅ DB 커밋: 490건 저장됨
+2025-10-26 14:22:31,543 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:31,586 - __main__ - INFO - ✅ DB 커밋: 490건 저장됨
+2025-10-26 14:22:32,776 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:32,827 - __main__ - INFO - ✅ DB 커밋: 490건 저장됨
+2025-10-26 14:22:34,221 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:34,259 - __main__ - INFO - ✅ DB 커밋: 490건 저장됨
+2025-10-26 14:22:35,587 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:39,448 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:43,203 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:46,856 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:50,975 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:54,402 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:22:57,825 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:02,047 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:05,818 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:07,196 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:11,274 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:13,605 - __main__ - INFO - ✅ DB 커밋: 500건 저장됨
+2025-10-26 14:23:15,023 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:19,057 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:20,676 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:24,184 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:25,572 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:29,299 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:33,284 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:37,112 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:40,700 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:42,156 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:45,675 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:49,406 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:50,807 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:52,105 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:55,821 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:23:58,203 - __main__ - INFO - ✅ DB 커밋: 510건 저장됨
+2025-10-26 14:23:59,616 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:03,585 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:04,820 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:08,671 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:12,637 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:16,689 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:20,371 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:24,032 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:27,852 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:31,700 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:35,233 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:37,582 - __main__ - INFO - ✅ DB 커밋: 520건 저장됨
+2025-10-26 14:24:39,021 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:42,780 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:46,148 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:50,013 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:53,550 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:24:56,769 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:00,288 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:03,624 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:07,029 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:10,313 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:12,271 - __main__ - INFO - ✅ DB 커밋: 530건 저장됨
+2025-10-26 14:25:13,724 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:17,149 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:20,402 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:23,780 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:27,040 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:30,345 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:33,589 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:36,647 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:40,028 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:43,303 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:45,260 - __main__ - INFO - ✅ DB 커밋: 540건 저장됨
+2025-10-26 14:25:46,561 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:49,717 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:52,831 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:56,004 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:25:59,332 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:03,889 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:07,990 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:12,397 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:16,045 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:19,820 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:22,755 - __main__ - INFO - ✅ DB 커밋: 550건 저장됨
+2025-10-26 14:26:24,359 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:29,156 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:33,321 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:37,315 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:41,639 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:46,062 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:50,542 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:54,546 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:26:58,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:02,497 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:05,514 - __main__ - INFO - ✅ DB 커밋: 560건 저장됨
+2025-10-26 14:27:06,591 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:11,278 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:15,683 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:19,718 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:22,343 - __main__ - INFO - 진행: 700/1287 (54.4%), 저장: 564건, AI분류: 589건
+2025-10-26 14:27:24,193 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:28,659 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:33,487 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:38,020 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:42,437 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:46,420 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:47,511 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:50,823 - __main__ - INFO - ✅ DB 커밋: 570건 저장됨
+2025-10-26 14:27:52,361 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:27:56,374 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:00,623 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:05,152 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:09,318 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:13,828 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:15,275 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:19,895 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:24,030 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:28,303 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:33,002 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:36,273 - __main__ - INFO - ✅ DB 커밋: 580건 저장됨
+2025-10-26 14:28:37,446 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:37,512 - __main__ - INFO - ✅ DB 커밋: 580건 저장됨
+2025-10-26 14:28:38,710 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:43,572 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:45,158 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:49,912 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:53,847 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:28:57,500 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:01,075 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:04,654 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:09,140 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:12,432 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:15,556 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:17,518 - __main__ - INFO - ✅ DB 커밋: 590건 저장됨
+2025-10-26 14:29:18,892 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:22,706 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:26,433 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:30,343 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:35,156 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:39,981 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:41,665 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:45,719 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:50,465 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:53,983 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:29:57,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:02,452 - __main__ - INFO - ✅ DB 커밋: 600건 저장됨
+2025-10-26 14:30:04,136 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:07,767 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:11,577 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:15,118 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:18,691 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:22,551 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:26,212 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:29,663 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:33,440 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:34,785 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:38,769 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:41,323 - __main__ - INFO - ✅ DB 커밋: 610건 저장됨
+2025-10-26 14:30:43,094 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:46,857 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:48,335 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:53,508 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:55,082 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:30:57,962 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:02,205 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:03,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:07,567 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:11,989 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:16,415 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:21,085 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:22,717 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:27,084 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:31,542 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:32,829 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:36,064 - __main__ - INFO - ✅ DB 커밋: 620건 저장됨
+2025-10-26 14:31:37,618 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:42,438 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:47,089 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:51,394 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:55,324 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:31:59,394 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:00,667 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:04,834 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:09,446 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:13,687 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:17,953 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:20,873 - __main__ - INFO - ✅ DB 커밋: 630건 저장됨
+2025-10-26 14:32:22,220 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:26,868 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:31,073 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:32,568 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:36,800 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:37,897 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:42,229 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:47,390 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:51,675 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:32:56,030 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:00,593 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:03,993 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:06,090 - __main__ - INFO - ✅ DB 커밋: 640건 저장됨
+2025-10-26 14:33:07,339 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:10,373 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:13,605 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:16,519 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:19,612 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:23,414 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:26,651 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:29,857 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:33,154 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:35,069 - __main__ - INFO - 진행: 800/1287 (62.2%), 저장: 649건, AI분류: 677건
+2025-10-26 14:33:36,257 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:38,250 - __main__ - INFO - ✅ DB 커밋: 650건 저장됨
+2025-10-26 14:33:39,587 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:43,258 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:44,786 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:47,998 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:51,480 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:54,466 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:33:57,381 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:00,844 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:02,095 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:05,446 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:08,556 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:11,820 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:13,246 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:15,246 - __main__ - INFO - ✅ DB 커밋: 660건 저장됨
+2025-10-26 14:34:16,358 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:19,738 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:23,252 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:26,527 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:30,015 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:33,262 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:36,515 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:39,753 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:43,172 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:46,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:48,585 - __main__ - INFO - ✅ DB 커밋: 670건 저장됨
+2025-10-26 14:34:49,837 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:53,314 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:34:56,714 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:00,228 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:03,904 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:07,044 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:10,562 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:13,855 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:17,335 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:20,489 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:21,688 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:23,712 - __main__ - INFO - ✅ DB 커밋: 680건 저장됨
+2025-10-26 14:35:24,746 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:27,861 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:28,858 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:30,482 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:33,762 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:36,956 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:38,481 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:41,780 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:44,989 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:48,398 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:51,890 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:55,275 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:35:58,594 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:01,032 - __main__ - INFO - ✅ DB 커밋: 690건 저장됨
+2025-10-26 14:36:02,298 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:05,615 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:08,971 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:12,166 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:15,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:18,593 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:21,601 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:24,725 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:28,063 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:31,523 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:32,912 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:34,871 - __main__ - INFO - ✅ DB 커밋: 700건 저장됨
+2025-10-26 14:36:36,366 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:36,387 - __main__ - INFO - ✅ DB 커밋: 700건 저장됨
+2025-10-26 14:36:37,854 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:41,084 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:42,393 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:45,309 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:46,752 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:49,957 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:53,019 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:56,733 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:36:57,979 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:01,475 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:04,850 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:07,888 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:11,042 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:12,969 - __main__ - INFO - ✅ DB 커밋: 710건 저장됨
+2025-10-26 14:37:14,414 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:17,630 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:18,598 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:21,951 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:25,418 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:28,756 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:33,113 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:37,637 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:41,751 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:43,718 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:48,197 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:49,520 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:53,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:37:55,906 - __main__ - INFO - ✅ DB 커밋: 720건 저장됨
+2025-10-26 14:37:57,427 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:01,587 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:03,228 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:07,747 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:11,949 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:15,981 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:20,513 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:24,540 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:28,521 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:32,680 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:34,278 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:38,756 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:42,035 - __main__ - INFO - ✅ DB 커밋: 730건 저장됨
+2025-10-26 14:38:43,559 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:48,361 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:51,236 - __main__ - INFO - 진행: 900/1287 (69.9%), 저장: 732건, AI분류: 763건
+2025-10-26 14:38:52,711 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:38:57,559 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:01,761 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:05,824 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:09,462 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:10,457 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:14,343 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:18,175 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:21,869 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:23,984 - __main__ - INFO - ✅ DB 커밋: 740건 저장됨
+2025-10-26 14:39:25,121 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:28,281 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:31,405 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:34,568 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:37,510 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:41,164 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:44,787 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:48,380 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:51,529 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:54,699 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:39:56,647 - __main__ - INFO - ✅ DB 커밋: 750건 저장됨
+2025-10-26 14:39:57,987 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:01,986 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:06,088 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:09,458 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:12,450 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:15,465 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:18,845 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:22,401 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:25,571 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:26,829 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:30,354 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:32,797 - __main__ - INFO - ✅ DB 커밋: 760건 저장됨
+2025-10-26 14:40:34,252 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:38,186 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:39,305 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:44,505 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:48,023 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:51,457 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:40:55,253 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:08,990 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:14,541 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:18,279 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:22,434 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:24,547 - __main__ - INFO - ✅ DB 커밋: 770건 저장됨
+2025-10-26 14:41:25,917 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:30,739 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:34,197 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:37,998 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:41,100 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:41:44,537 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:06,261 - munci.signal_gap.core.event_price_mapper - ERROR - 앵커 가격 조회 실패: (2013, 'Lost connection to MySQL server during query ([WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다)')
+Traceback (most recent call last):
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 789, in _read_bytes
+    data = self._rfile.read(num_bytes)
+  File "C:\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\munci\signal_gap\core\event_price_mapper.py", line 60, in get_anchor_price
+    conn = pymysql.connect(**self.db_config)
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 365, in __init__
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 696, in connect
+    self.set_character_set(self.charset, self.collation)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 638, in set_character_set
+    self._read_packet()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 751, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "C:\Users\ll\Downloads\new\drive20251020\PythonProject10\.venv\Lib\site-packages\pymysql\connections.py", line 795, in _read_bytes
+    raise err.OperationalError(
+    ...<2 lines>...
+    )
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query ([WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다)')
+2025-10-26 14:42:08,896 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:10,179 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:14,311 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:19,835 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:23,180 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:27,600 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:29,700 - __main__ - INFO - ✅ DB 커밋: 780건 저장됨
+2025-10-26 14:42:31,122 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:35,932 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:39,649 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:43,637 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:47,149 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:52,191 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:55,566 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:42:57,147 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:01,841 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:03,291 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:06,914 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:10,313 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:12,566 - __main__ - INFO - ✅ DB 커밋: 790건 저장됨
+2025-10-26 14:43:13,919 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:17,263 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:20,754 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:24,376 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:28,895 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:30,050 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:31,392 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:35,080 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:38,901 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:40,365 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:44,437 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:50,634 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:54,690 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:57,425 - __main__ - INFO - ✅ DB 커밋: 800건 저장됨
+2025-10-26 14:43:58,642 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:43:58,668 - __main__ - INFO - ✅ DB 커밋: 800건 저장됨
+2025-10-26 14:43:59,817 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:04,364 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:07,636 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:11,195 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:15,009 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:18,813 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:23,330 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:27,918 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:29,046 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:33,120 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:37,538 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:41,565 - __main__ - INFO - ✅ DB 커밋: 810건 저장됨
+2025-10-26 14:44:43,152 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:47,112 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:50,899 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:55,482 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:44:59,700 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:04,718 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:08,354 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:12,129 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:15,815 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:19,143 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:21,223 - __main__ - INFO - ✅ DB 커밋: 820건 저장됨
+2025-10-26 14:45:21,223 - __main__ - INFO - 진행: 1000/1287 (77.7%), 저장: 820건, AI분류: 852건
+2025-10-26 14:45:22,726 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:26,743 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:30,287 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:33,809 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:37,111 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:40,776 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:44,490 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:48,005 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:51,494 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:55,123 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:57,262 - __main__ - INFO - ✅ DB 커밋: 830건 저장됨
+2025-10-26 14:45:58,499 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:45:58,523 - __main__ - INFO - ✅ DB 커밋: 830건 저장됨
+2025-10-26 14:45:59,908 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:03,121 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:06,335 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:09,765 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:11,123 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:14,737 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:16,057 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:19,535 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:22,772 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:26,806 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:30,734 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:35,194 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:37,837 - __main__ - INFO - ✅ DB 커밋: 840건 저장됨
+2025-10-26 14:46:39,157 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:42,774 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:46,072 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:49,413 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:52,882 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:55,851 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:57,200 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:46:58,359 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:02,407 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:06,212 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:09,612 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:11,057 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:14,148 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:16,304 - __main__ - INFO - ✅ DB 커밋: 850건 저장됨
+2025-10-26 14:47:17,680 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:21,585 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:26,418 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:30,493 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:31,804 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:36,340 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:40,327 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:44,427 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:48,371 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:50,664 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:54,470 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:47:58,367 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:01,505 - __main__ - INFO - ✅ DB 커밋: 860건 저장됨
+2025-10-26 14:48:02,993 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:06,912 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:10,805 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:14,859 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:19,042 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:20,559 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:25,535 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:29,329 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:33,234 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:37,223 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:41,744 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:44,205 - __main__ - INFO - ✅ DB 커밋: 870건 저장됨
+2025-10-26 14:48:45,630 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:45,664 - __main__ - INFO - ✅ DB 커밋: 870건 저장됨
+2025-10-26 14:48:47,098 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:50,532 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:54,370 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:58,260 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:48:59,616 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:03,524 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:07,368 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:11,106 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:14,775 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:18,508 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:22,187 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:24,727 - __main__ - INFO - ✅ DB 커밋: 880건 저장됨
+2025-10-26 14:49:26,511 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:30,920 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:35,299 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:39,247 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:43,063 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:46,893 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:50,719 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:52,356 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:49:56,365 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:00,059 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:03,977 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:06,409 - __main__ - INFO - ✅ DB 커밋: 890건 저장됨
+2025-10-26 14:50:07,622 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:11,378 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:14,850 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:18,674 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:19,938 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:21,208 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:25,730 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:29,472 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:32,811 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:36,235 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:39,693 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:43,021 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:45,123 - __main__ - INFO - ✅ DB 커밋: 900건 저장됨
+2025-10-26 14:50:46,722 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:50,524 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:53,594 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:50:56,839 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:00,748 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:03,922 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:06,045 - __main__ - INFO - 진행: 1100/1287 (85.5%), 저장: 906건, AI분류: 938건
+2025-10-26 14:51:07,664 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:09,120 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:10,351 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:13,294 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:16,509 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:20,346 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:22,379 - __main__ - INFO - ✅ DB 커밋: 910건 저장됨
+2025-10-26 14:51:23,558 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:27,808 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:31,178 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:36,039 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:40,500 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:44,285 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:47,867 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:51,677 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:55,564 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:51:58,955 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:00,366 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:02,436 - __main__ - INFO - ✅ DB 커밋: 920건 저장됨
+2025-10-26 14:52:03,973 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:07,362 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:10,515 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:14,142 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:15,175 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:18,708 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:22,255 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:25,629 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:28,862 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:30,340 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:33,629 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:37,043 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:39,078 - __main__ - INFO - ✅ DB 커밋: 930건 저장됨
+2025-10-26 14:52:40,490 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:43,708 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:47,036 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:48,318 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:51,667 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:54,824 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:52:57,920 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:01,776 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:04,810 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:06,009 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:07,284 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:10,643 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:11,951 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:15,161 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:17,186 - __main__ - INFO - ✅ DB 커밋: 940건 저장됨
+2025-10-26 14:53:18,546 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:21,666 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:25,126 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:28,364 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:31,960 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:35,298 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:38,527 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:41,837 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:45,154 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:48,692 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:50,763 - __main__ - INFO - ✅ DB 커밋: 950건 저장됨
+2025-10-26 14:53:52,113 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:55,283 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:53:58,491 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:02,016 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:05,484 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:08,975 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:12,623 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:16,765 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:20,551 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:23,566 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:25,536 - __main__ - INFO - ✅ DB 커밋: 960건 저장됨
+2025-10-26 14:54:26,648 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:30,345 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:33,650 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:37,832 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:40,845 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:44,053 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:45,880 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:49,341 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:52,903 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:55,145 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:54:58,654 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:03,092 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:05,487 - __main__ - INFO - ✅ DB 커밋: 970건 저장됨
+2025-10-26 14:55:07,074 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:11,311 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:14,848 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:18,525 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:22,343 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:26,407 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:27,715 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:31,482 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:33,034 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:36,890 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:38,457 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:42,003 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:45,843 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:47,000 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:49,350 - __main__ - INFO - ✅ DB 커밋: 980건 저장됨
+2025-10-26 14:55:50,671 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:55,050 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:55:59,040 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:00,026 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:01,379 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:05,118 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:08,947 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:12,996 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:16,802 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:20,666 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:24,289 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:26,592 - __main__ - INFO - 진행: 1200/1287 (93.2%), 저장: 989건, AI분류: 1021건
+2025-10-26 14:56:28,111 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:30,888 - __main__ - INFO - ✅ DB 커밋: 990건 저장됨
+2025-10-26 14:56:32,370 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:36,313 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:40,199 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:41,538 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:45,956 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:49,858 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:53,855 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:55,143 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:56:58,603 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:02,812 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:06,643 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:10,421 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:12,767 - __main__ - INFO - ✅ DB 커밋: 1000건 저장됨
+2025-10-26 14:57:14,156 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:17,874 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:21,718 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:25,370 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:29,020 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:32,645 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:36,610 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:40,498 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:44,185 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:47,884 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:50,247 - __main__ - INFO - ✅ DB 커밋: 1010건 저장됨
+2025-10-26 14:57:51,575 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:55,296 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:57:58,940 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:02,864 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:06,486 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:10,138 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:13,638 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:17,289 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:20,891 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:24,625 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:26,931 - __main__ - INFO - ✅ DB 커밋: 1020건 저장됨
+2025-10-26 14:58:28,354 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:32,086 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:36,031 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:39,986 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:43,777 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:47,557 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:51,321 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:52,856 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:54,026 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:58:57,966 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:01,792 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:05,731 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:08,247 - __main__ - INFO - ✅ DB 커밋: 1030건 저장됨
+2025-10-26 14:59:09,848 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:14,006 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:17,813 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:21,696 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:25,478 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:26,953 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:30,972 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:34,358 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:38,035 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:41,729 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:45,556 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:47,967 - __main__ - INFO - ✅ DB 커밋: 1040건 저장됨
+2025-10-26 14:59:49,578 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:53,001 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:54,556 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 14:59:58,071 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:05,548 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:09,185 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:12,641 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:16,460 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:20,514 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:24,515 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:28,230 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:29,562 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:32,028 - __main__ - INFO - ✅ DB 커밋: 1050건 저장됨
+2025-10-26 15:00:33,422 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:33,472 - __main__ - INFO - ✅ DB 커밋: 1050건 저장됨
+2025-10-26 15:00:34,803 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:38,447 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:42,170 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:45,823 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:49,660 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:53,437 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:00:56,979 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:00,739 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:01,909 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:05,920 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:09,685 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:10,961 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:14,515 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:15,202 - munci.signal_gap.core.event_price_mapper - WARNING - 앵커 가격 없음: stock=288490, date=20251002
+2025-10-26 15:01:16,747 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:20,339 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:22,727 - __main__ - INFO - ✅ DB 커밋: 1060건 저장됨
+2025-10-26 15:01:24,101 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:27,940 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:28,632 - munci.signal_gap.core.event_price_mapper - WARNING - 앵커 가격 없음: stock=60570, date=20251010
+2025-10-26 15:01:30,056 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:30,837 - munci.signal_gap.core.event_price_mapper - WARNING - 앵커 가격 없음: stock=199800, date=20251010
+2025-10-26 15:01:32,008 - LabelClassifier - INFO - HCX-007 OK
+2025-10-26 15:01:34,408 - __main__ - INFO - ============================================================
+2025-10-26 15:01:34,409 - __main__ - INFO - ✅ AI 기반 수익률 DB 구축 완료
+2025-10-26 15:01:34,409 - __main__ - INFO -    - 전체 처리: 1287건
+2025-10-26 15:01:34,409 - __main__ - INFO -    - 저장 완료: 1061건
+2025-10-26 15:01:34,410 - __main__ - INFO -    - 저장률: 82.4%
+2025-10-26 15:01:34,410 - __main__ - INFO - 
+2025-10-26 15:01:34,410 - __main__ - INFO - 📊 AI 분류 통계:
+2025-10-26 15:01:34,419 - __main__ - INFO -    - 분류 성공: 1099건
+2025-10-26 15:01:34,419 - __main__ - INFO -    - 분류 불가(other): 188건
+2025-10-26 15:01:34,419 - __main__ - INFO -    - Summary 없음: 0건
+2025-10-26 15:01:34,420 - __main__ - INFO -    - AI 분류 성공률: 85.4%
+2025-10-26 15:01:34,420 - __main__ - INFO - 
+2025-10-26 15:01:34,420 - __main__ - INFO - ❌ 스킵 사유:
+2025-10-26 15:01:34,421 - __main__ - INFO -    - Summary 없음: 0건
+2025-10-26 15:01:34,421 - __main__ - INFO -    - AI other 분류: 188건
+2025-10-26 15:01:34,421 - __main__ - INFO -    - 종목코드 없음: 31건
+2025-10-26 15:01:34,421 - __main__ - INFO -    - 앵커 가격 없음: 4건
+2025-10-26 15:01:34,422 - __main__ - INFO -    - 수익률 계산 불가: 3건
+2025-10-26 15:01:34,422 - __main__ - INFO - ============================================================

@@ -1,0 +1,248 @@
+{
+  "description": "포괄적인 한국 기업 데이터베이스 (상장/비상장/계열사/유니콘 포함)",
+  "last_updated": "2025-01-01",
+  "categories": {
+    "samsung_group": {
+      "name": "삼성 그룹",
+      "companies": {
+        "삼성전자": {"sector": "전자", "type": "listed", "code": "005930"},
+        "삼성생명": {"sector": "보험", "type": "subsidiary"},
+        "삼성물산": {"sector": "건설무역", "type": "subsidiary"},
+        "삼성카드": {"sector": "금융", "type": "subsidiary"},
+        "삼성증권": {"sector": "금융", "type": "subsidiary"},
+        "삼성SDI": {"sector": "배터리", "type": "subsidiary"},
+        "삼성SDS": {"sector": "IT서비스", "type": "subsidiary"},
+        "삼성전기": {"sector": "전자부품", "type": "subsidiary"},
+        "삼성중공업": {"sector": "조선", "type": "subsidiary"},
+        "삼성화재": {"sector": "손해보험", "type": "subsidiary"},
+        "삼성바이오로직스": {"sector": "바이오", "type": "subsidiary"},
+        "삼성바이오에피스": {"sector": "바이오", "type": "subsidiary"},
+        "삼성엔지니어링": {"sector": "플랜트", "type": "subsidiary"}
+      }
+    },
+    "lg_group": {
+      "name": "LG 그룹",
+      "companies": {
+        "LG전자": {"sector": "전자", "type": "listed", "code": "066570"},
+        "LG생활건강": {"sector": "소비재", "type": "subsidiary"},
+        "LG유플러스": {"sector": "통신", "type": "subsidiary"},
+        "LG디스플레이": {"sector": "디스플레이", "type": "subsidiary"},
+        "LG이노텍": {"sector": "전자부품", "type": "subsidiary"},
+        "LG에너지솔루션": {"sector": "배터리", "type": "subsidiary"},
+        "LG화학": {"sector": "화학", "type": "subsidiary"},
+        "LG CNS": {"sector": "IT서비스", "type": "subsidiary"},
+        "LG하우시스": {"sector": "건축자재", "type": "subsidiary"}
+      }
+    },
+    "hyundai_motor_group": {
+      "name": "현대자동차 그룹",
+      "companies": {
+        "현대자동차": {"sector": "자동차", "type": "listed", "code": "005380"},
+        "기아": {"sector": "자동차", "type": "subsidiary"},
+        "현대모비스": {"sector": "자동차부품", "type": "subsidiary"},
+        "현대건설": {"sector": "건설", "type": "subsidiary"},
+        "현대제철": {"sector": "철강", "type": "subsidiary"},
+        "현대글로비스": {"sector": "물류", "type": "subsidiary"},
+        "현대카드": {"sector": "금융", "type": "subsidiary"},
+        "현대캐피탈": {"sector": "금융", "type": "subsidiary"},
+        "현대오토에버": {"sector": "IT", "type": "subsidiary"},
+        "현대위아": {"sector": "자동차부품", "type": "subsidiary"},
+        "현대트랜시스": {"sector": "자동차부품", "type": "subsidiary"},
+        "현대케피코": {"sector": "자동차부품", "type": "subsidiary"},
+        "이노션": {"sector": "광고", "type": "subsidiary"}
+      }
+    },
+    "hd_hyundai_group": {
+      "name": "HD현대 그룹 (구 현대중공업)",
+      "companies": {
+        "HD현대": {"sector": "조선", "type": "conglomerate"},
+        "HD현대중공업": {"sector": "조선", "type": "subsidiary"},
+        "HD현대미포": {"sector": "조선", "type": "subsidiary"},
+        "HD현대삼호": {"sector": "조선", "type": "subsidiary"},
+        "HD한국조선해양": {"sector": "조선", "type": "subsidiary"},
+        "HD현대건설기계": {"sector": "건설기계", "type": "subsidiary"},
+        "HD현대인프라코어": {"sector": "건설기계", "type": "subsidiary"},
+        "HD현대일렉트릭": {"sector": "전기장비", "type": "subsidiary"},
+        "HD현대에너지솔루션": {"sector": "에너지", "type": "subsidiary"},
+        "HD현대글로벌서비스": {"sector": "서비스", "type": "subsidiary"},
+        "HD현대오일뱅크": {"sector": "정유", "type": "subsidiary"},
+        "HD현대마린솔루션": {"sector": "조선솔루션", "type": "subsidiary"},
+        "HD현대마린엔진": {"sector": "조선부품", "type": "subsidiary"}
+      }
+    },
+    "sk_group": {
+      "name": "SK 그룹",
+      "companies": {
+        "SK하이닉스": {"sector": "반도체", "type": "listed", "code": "000660"},
+        "SK텔레콤": {"sector": "통신", "type": "subsidiary"},
+        "SK이노베이션": {"sector": "화학", "type": "subsidiary"},
+        "SK바이오팜": {"sector": "바이오", "type": "subsidiary"},
+        "SK스퀘어": {"sector": "투자", "type": "subsidiary"},
+        "SK온": {"sector": "배터리", "type": "subsidiary"},
+        "SK바이오사이언스": {"sector": "바이오", "type": "subsidiary"},
+        "SK케미칼": {"sector": "화학", "type": "subsidiary"},
+        "SK네트웍스": {"sector": "무역", "type": "subsidiary"},
+        "SKC": {"sector": "화학소재", "type": "subsidiary"},
+        "SK가스": {"sector": "가스", "type": "subsidiary"},
+        "SK실트론": {"sector": "웨이퍼", "type": "subsidiary"},
+        "SK머티리얼즈": {"sector": "반도체소재", "type": "subsidiary"},
+        "SK아이이테크놀로지": {"sector": "배터리분리막", "type": "subsidiary"},
+        "SK브로드밴드": {"sector": "케이블방송", "type": "subsidiary"}
+      }
+    },
+    "it_platforms": {
+      "name": "IT/플랫폼 기업",
+      "companies": {
+        "네이버": {"sector": "IT", "type": "tech", "code": "035420"},
+        "카카오": {"sector": "IT", "type": "tech", "code": "035720"},
+        "카카오뱅크": {"sector": "핀테크", "type": "subsidiary"},
+        "카카오페이": {"sector": "핀테크", "type": "subsidiary"},
+        "카카오게임즈": {"sector": "게임", "type": "subsidiary"},
+        "카카오엔터테인먼트": {"sector": "엔터", "type": "subsidiary"},
+        "카카오모빌리티": {"sector": "모빌리티", "type": "subsidiary"},
+        "라인": {"sector": "IT", "type": "subsidiary"},
+        "네이버페이": {"sector": "핀테크", "type": "subsidiary"}
+      }
+    },
+    "unicorns": {
+      "name": "유니콘 기업",
+      "companies": {
+        "쿠팡": {"sector": "이커머스", "type": "unicorn"},
+        "토스": {"sector": "핀테크", "type": "unicorn"},
+        "비바리퍼블리카": {"sector": "핀테크", "type": "unicorn"},
+        "당근마켓": {"sector": "플랫폼", "type": "unicorn"},
+        "배달의민족": {"sector": "O2O", "type": "startup"},
+        "우아한형제들": {"sector": "O2O", "type": "startup"},
+        "마켓컬리": {"sector": "이커머스", "type": "unicorn"},
+        "컬리": {"sector": "이커머스", "type": "unicorn"},
+        "야놀자": {"sector": "여행테크", "type": "unicorn"},
+        "직방": {"sector": "부동산테크", "type": "unicorn"},
+        "무신사": {"sector": "이커머스", "type": "unicorn"},
+        "버킷플레이스": {"sector": "인테리어커머스", "type": "unicorn"},
+        "두나무": {"sector": "가상자산거래소", "type": "unicorn"}
+      }
+    },
+    "games": {
+      "name": "게임 회사",
+      "companies": {
+        "크래프톤": {"sector": "게임", "type": "listed"},
+        "넥슨": {"sector": "게임", "type": "listed"},
+        "엔씨소프트": {"sector": "게임", "type": "listed"},
+        "넷마블": {"sector": "게임", "type": "listed"},
+        "펄어비스": {"sector": "게임", "type": "listed"},
+        "스마일게이트": {"sector": "게임", "type": "listed"},
+        "네오위즈": {"sector": "게임", "type": "listed"},
+        "컴투스": {"sector": "게임", "type": "listed"},
+        "게임빌": {"sector": "게임", "type": "listed"},
+        "위메이드": {"sector": "게임", "type": "listed"},
+        "웹젠": {"sector": "게임", "type": "listed"},
+        "더블유게임즈": {"sector": "게임", "type": "listed"}
+      }
+    },
+    "semiconductors": {
+      "name": "반도체 장비/소재",
+      "companies": {
+        "한미반도체": {"sector": "반도체장비", "type": "listed"},
+        "주성엔지니어링": {"sector": "반도체장비", "type": "listed"},
+        "유니테스트": {"sector": "반도체검사", "type": "listed"},
+        "피에스케이": {"sector": "반도체장비", "type": "listed"},
+        "케이씨텍": {"sector": "반도체장비", "type": "listed"},
+        "에스에프에이": {"sector": "디스플레이장비", "type": "listed"},
+        "동진쎄미켐": {"sector": "반도체소재", "type": "listed"},
+        "솔브레인": {"sector": "반도체소재", "type": "listed"},
+        "덕산네오룩스": {"sector": "OLED소재", "type": "listed"},
+        "원익IPS": {"sector": "반도체장비", "type": "listed"},
+        "테스": {"sector": "반도체검사장비", "type": "listed"},
+        "리노공업": {"sector": "반도체부품", "type": "listed"},
+        "DB하이텍": {"sector": "파운드리", "type": "listed"},
+        "매그나칩": {"sector": "반도체", "type": "listed"}
+      }
+    },
+    "bio_pharma": {
+      "name": "바이오/제약",
+      "companies": {
+        "셀트리온": {"sector": "바이오", "type": "listed"},
+        "셀트리온헬스케어": {"sector": "바이오", "type": "listed"},
+        "한미약품": {"sector": "제약", "type": "listed"},
+        "유한양행": {"sector": "제약", "type": "listed"},
+        "대웅제약": {"sector": "제약", "type": "listed"},
+        "종근당": {"sector": "제약", "type": "listed"},
+        "녹십자": {"sector": "혈액제제", "type": "listed"},
+        "GC녹십자": {"sector": "혈액제제", "type": "listed"},
+        "녹십자홀딩스": {"sector": "지주", "type": "listed"},
+        "동아에스티": {"sector": "제약", "type": "listed"},
+        "동아홀딩스": {"sector": "지주", "type": "listed"},
+        "JW중외제약": {"sector": "제약", "type": "listed"},
+        "일동제약": {"sector": "제약", "type": "listed"},
+        "광동제약": {"sector": "제약", "type": "listed"},
+        "보령제약": {"sector": "제약", "type": "listed"}
+      }
+    },
+    "battery": {
+      "name": "2차전지 관련",
+      "companies": {
+        "에코프로비엠": {"sector": "양극재", "type": "listed"},
+        "에코프로": {"sector": "환경소재", "type": "listed"},
+        "코스모신소재": {"sector": "양극재", "type": "listed"},
+        "새론오토모티브": {"sector": "배터리부품", "type": "listed"},
+        "천보": {"sector": "음극재장비", "type": "listed"},
+        "대주전자재료": {"sector": "음극재", "type": "listed"},
+        "솔루스첨단소재": {"sector": "동박", "type": "listed"},
+        "일진머티리얼즈": {"sector": "동박", "type": "listed"},
+        "더블유씨피": {"sector": "분리막", "type": "listed"},
+        "엔켐": {"sector": "전해액", "type": "listed"},
+        "포스코퓨처엠": {"sector": "배터리소재", "type": "listed"}
+      }
+    },
+    "name_changes": {
+      "name": "상호변경 회사 (현재명)",
+      "companies": {
+        "한화오션": {"sector": "조선", "type": "listed", "old_name": "대우조선해양"},
+        "두산에너빌리티": {"sector": "발전설비", "type": "listed", "old_name": "두산중공업"},
+        "포스코퓨처엠": {"sector": "배터리소재", "type": "listed", "old_name": "포스코케미칼"},
+        "포스코스틸리온": {"sector": "철강가공", "type": "listed", "old_name": "포스코강판"},
+        "포스코DX": {"sector": "IT서비스", "type": "listed", "old_name": "포스코ICT"},
+        "DL이앤씨": {"sector": "건설", "type": "listed", "old_name": "대림산업"},
+        "HD한국조선해양": {"sector": "조선", "type": "listed", "old_name": "한국조선해양"},
+        "HD현대중공업": {"sector": "조선", "type": "listed", "old_name": "현대중공업"},
+        "KG모빌리티": {"sector": "자동차", "type": "listed", "old_name": "쌍용자동차"},
+        "LX인터내셔널": {"sector": "무역", "type": "listed", "old_name": "LG상사"},
+        "LX세미콘": {"sector": "반도체", "type": "listed", "old_name": "실리콘웍스"},
+        "하이브": {"sector": "엔터", "type": "listed", "old_name": "빅히트엔터테인먼트"},
+        "HK이노엔": {"sector": "제약", "type": "listed", "old_name": "CJ헬스케어"}
+      }
+    },
+    "old_names": {
+      "name": "구 회사명 (변경 전)",
+      "companies": {
+        "대우조선해양": {"changed_to": "한화오션", "type": "changed"},
+        "두산중공업": {"changed_to": "두산에너빌리티", "type": "changed"},
+        "포스코케미칼": {"changed_to": "포스코퓨처엠", "type": "changed"},
+        "포스코강판": {"changed_to": "포스코스틸리온", "type": "changed"},
+        "포스코ICT": {"changed_to": "포스코DX", "type": "changed"},
+        "대림산업": {"changed_to": "DL이앤씨", "type": "changed"},
+        "한국조선해양": {"changed_to": "HD한국조선해양", "type": "changed"},
+        "현대중공업": {"changed_to": "HD현대중공업", "type": "changed"},
+        "쌍용자동차": {"changed_to": "KG모빌리티", "type": "changed"},
+        "LG상사": {"changed_to": "LX인터내셔널", "type": "changed"},
+        "실리콘웍스": {"changed_to": "LX세미콘", "type": "changed"},
+        "빅히트엔터테인먼트": {"changed_to": "하이브", "type": "changed"},
+        "빅히트": {"changed_to": "하이브", "type": "changed"},
+        "CJ헬스케어": {"changed_to": "HK이노엔", "type": "changed"}
+      }
+    },
+    "delisted": {
+      "name": "상장폐지 회사",
+      "companies": {
+        "락앤락": {"sector": "생활용품", "type": "delisted", "delisted_date": "2024-12-09"},
+        "SK렌터카": {"sector": "렌터카", "type": "delisted", "delisted_date": "2024-01-31"},
+        "아시아나IDT": {"sector": "IT", "type": "delisted"},
+        "진양폴리": {"sector": "화학", "type": "delisted"},
+        "진양화학": {"sector": "화학", "type": "delisted"},
+        "진양제약": {"sector": "제약", "type": "delisted"},
+        "머지포인트": {"sector": "반도체", "type": "delisted"},
+        "삼성제약": {"sector": "제약", "type": "delisted", "note": "한미약품에 인수"}
+      }
+    }
+  }
+}

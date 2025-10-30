@@ -1,0 +1,12 @@
+# Ignore local secret configs
+config.yml
+.env
+.env.*
+
+
+# Node / Java / general artifacts (추가 예시)
+node_modules/
+dist/
+build/
+target/
+*.log

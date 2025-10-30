@@ -1,0 +1,13 @@
+
+elasticsearch:
+  cloud_id: ${ELASTICSEARCH_CLOUD_ID}
+  username: ${ELASTICSEARCH_USERNAME}
+  password: ${ELASTICSEARCH_PASSWORD}
+
+database:
+  host: ${DATABASE_HOST}
+  port: ${DATABASE_PORT}
+  database: ${DATABASE_NAME}
+  username: ${DATABASE_USERNAME}
+  password: ${DATABASE_PASSWORD}
+  driver: org.mariadb.jdbc.Driver
