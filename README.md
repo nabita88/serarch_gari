@@ -143,13 +143,8 @@
   <li>성공 시 각 뉴스에 대해 <code>actual_return</code> / <code>expected_return</code> / <code>expected_std</code> / <code>z_score</code>를 세팅하고, 방향/강도까지 산출하여 일괄 저장합니다.</li>
   <li>엔드포인트에서 스캐너 주입·초기화는 <strong>FastAPI lifespan</strong> 구간에서 수행됩니다.</li>
 </ul>
-<!doctype html>
-<html lang="ko">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>데이터 흐름 상세도 · 괴리 판단 기준 · 테이블 관계도</title>
-<meta name="color-scheme" content="light dark" />
+
+
 <style>
   :root{
     --bg: #ffffff;
@@ -579,12 +574,6 @@
       </div>
     </section>
 
-    <footer style="margin-top:36px; color:var(--muted); font-size:.9em">
-      문서 버전: <code>v1.0</code> · 예시는 설명을 위한 샘플 데이터입니다.
-    </footer>
-  </div>
-</body>
-</html>
 
 <br>
 
